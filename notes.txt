@@ -1,0 +1,10 @@
+NEEDS:
+- A home page game state
+- Log in
+- Progress saving
+
+WANTS:
+- Visually update how long until harvest, how long until death
+- A dead plant symbol that we have to remove in order to get back to bare land
+- if you dont keep the land plowed, you will start to get weeds. 4 weeds around plant means plant will die
+- Seasons and plants that only grow during certain seasons
